@@ -1,0 +1,50 @@
+body{
+    width: 1000px;
+}
+
+.div1{
+    width: 100px;
+    height: 100px;
+    border: 1px black solid;
+    background-color: aquamarine;
+    display: inline-block;
+}
+.div2{
+    width: 100px;
+    height: 100px;
+    border: 1px black solid;
+    background-color: lightcoral;
+    display: block;
+}
+/* Asignment_02 */
+.divBig{
+    height: 210px;
+    width: 235px;
+    background-color:grey;
+}
+.divA{
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+    border-radius: 15px;
+    display: inline-block;
+    border: 1px black solid;
+    margin: 30px -60px 30px 20px;
+}
+.divB{
+    height: 100px;
+    width: 100px;
+    background-color: lightgreen;
+    border-radius: 15px;
+    border: 1px black solid;
+    display: inline-block;
+}
+.divC{
+    height: 100px;
+    width: 100px;
+    background-color: salmon;
+    border-radius: 15px;
+    display: inline-block;
+    border: 1px black solid;
+    margin: -30px -20px -20px -50px;
+}
