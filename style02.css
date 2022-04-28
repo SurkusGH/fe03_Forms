@@ -1,0 +1,28 @@
+body{
+    width: 300px;
+    height: 455px;
+    padding: 25px;
+    margin: 100px;
+    border: 2px grey solid;
+    border-radius: 15px;
+}
+form{
+    margin: 10px 10px;
+}
+h1{
+    margin: 0px;
+}
+
+.seg2{
+    text-align: right;
+}
+.seg3{
+    text-align: right;
+}
+.seg3b{
+    text-align: center;
+    margin: 0px 6px 0px 0px;
+}
+.seg5{
+    text-align: center;
+}
